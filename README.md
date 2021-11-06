@@ -1,4 +1,4 @@
-# Webapp Layout
+# React Webapp Layout
 
 "React Webapp Layout" is a simple template for React applications.
 
